@@ -11,7 +11,7 @@
     const [fruit, setFruit] = useState('banana');
     const [todos, setTodos] = useState([{ text: 'Learn Hooks' }]);
     // ...
-    }
+    } 
 
 ### Effect Hook (useEffect)
 
